@@ -18,7 +18,7 @@
 ###### HTML, CSS, JAVASCRIPT
 
 ## Usage
-#### Check the deployed aplication at: https://github.com/americanoame/Password-Generator/settings/pages
+#### Check the deployed aplication at: https://americanoame.github.io/Password-Generator/
 #### Or by visiting: https://github.com/americanoame/Weather-Dashboard
 
 
